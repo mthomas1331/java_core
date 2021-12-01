@@ -3,7 +3,7 @@ package com.spartaglobal.challenges.challenge_2;
 import java.util.ArrayList;
 import java.util.Arrays;
 
-public class Challenge_2 {
+public class Challenge2 {
     public void sortByLength(String sentence){
         //Challenge 2
         String[] sortedSentence = sentence.split(" ");
